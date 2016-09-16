@@ -1,4 +1,4 @@
-package com.varun.hangover;
+package com.varun.hangover.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,10 +6,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.varun.hangover.R;
 
-public class TwoFragment extends Fragment {
 
-    public TwoFragment() {
+public class HomeFragment extends Fragment {
+
+    public HomeFragment() {
         // Required empty public constructor
     }
 
